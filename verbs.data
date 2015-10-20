@@ -1,0 +1,48 @@
+
+	{
+            "description": "Verb Conjugation",
+	    "sleep": {
+		"Infinitive" : "dormir",
+		"Gerund": "duermiendo",
+		"Yo": "duermo",
+		"Tú": "duermes",
+		"Él, Ella, Usted": "duerme",
+		"Nosotros": "dormimos",
+		"Vosotros": "dormis",
+		"Usteds": "duermen",
+		"Vos": "dormis"
+	    }, 
+	    "have": {
+		"Infinitive" : "tener",
+		"Gerund": "teniendo",
+		"Yo": "tengo",
+		"Tú": "tienes",
+		"Él, Ella, Usted": "tiene",
+		"Nosotros": "tenemos",
+		"Vosotros": "tenéis",
+		"Usteds": "tienen",
+		"Vos": "tenéis"
+	    }, 
+	    "be_doctor": {
+		"Infinitive" : "ser",
+		"Gerund": "siendo",
+		"Yo": "soy",
+		"Tú": "eres",
+		"Él, Ella, Usted": "es",
+		"Nosotros": "somos",
+		"Vosotros": "sois",
+		"Usteds": "son",
+		"Vos": "sos"
+	    }, 
+	    "be_place": {
+		"Infinitive" : "estar",
+		"Gerund": "estando",
+		"Yo": "estoy",
+		"Tú": "estás",
+		"Él, Ella, Usted": "está",
+		"Nosotros": "estamos",
+		"Vosotros": "estáis",
+		"Usteds": "están",
+		"Vos": "estás"
+	    } 
+	}

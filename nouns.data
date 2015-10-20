@@ -1,0 +1,50 @@
+	{
+            "description": "Nouns",
+	    "home": {
+			"kitchen" : "cocina",
+			"toilet": "retrete",
+			"room": "habitation",
+			"sitting room": "cuarto de estar",
+			"dining room": "comedor",
+			"bathroom": "cuarto de baño",
+			"window": "la ventana",
+			"sink": "el frigedero"
+	    },
+	    "clothing": {
+		    "jersey" : "el jersey",
+			"overcoat" : "el abrigo",
+			"shirt": "la camisa",
+			"tee-shirt": "la camiseta",
+			"trousers": "pantalones",
+			"jeans": "vaqueros",
+			"skirt": "la falda",
+			"dress": "el vestido",
+			"socks": "calcetines",
+			"belt": "cinturón",
+			"hat": "sombrero"
+	    },
+	    "people": {
+			"woman" : "la mujer",
+			"women": "las mujeres",
+			"man": "el hombre",
+			"son": "el hijo",
+			"daughter": "la hija",
+			"brother": "el hermano",
+			"sister": "la hermana",
+			"grandfather": "el abuelo",
+			"grandmother": "la abuela"
+	    },
+	    "things": {
+			"car" : "el coche",
+			"tree": "el árbol",
+			"trees": "los árboles",
+			"fish": "el pez",
+			"fishes": "los peces",
+			"newpaper" : "un periódico",
+			"telephone" : "teléfonos"
+
+	    },
+		"roles": {
+		     "policeman" : "policía"
+		}
+	}
