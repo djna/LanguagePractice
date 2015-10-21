@@ -1,0 +1,26 @@
+{
+        "description": "Colours",
+            "simple": {
+                "red (f)" : "roja",
+                "red (m)" : "rojo",
+                "blue" : "azul",
+                "blue (p)" : "azules",
+                "yellow" : "amarillo",
+                "green" : "verde",
+                "black (m)" : "negro",
+                "black (f)" : "negra",
+                "white (m)" : "blanco",
+                "white (f)" : "blanca"
+            },
+          "advanced": {
+                "chestnut brown" : "castaño",
+                "brown" : "marrón",
+                "purple" : "morado",
+                "pink" : "rosa",
+                "grey" : "gris"
+          },
+          "hair": {
+                "redhead (f)" : "pelirroja",
+                "blonde (m)" : "rubio"
+          }
+}

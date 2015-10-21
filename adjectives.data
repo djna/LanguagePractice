@@ -1,0 +1,15 @@
+
+
+{
+    "description" : "Adjectives",
+    "temperature" : {
+        "hot": "calor",
+        "cold" : "frío"
+    },
+    "feeling"{
+        "hungry" : "hambre",
+        "thirsty" : "sed",
+        "tired": "cansado",
+        "ill": "enfirmo"
+    }
+}

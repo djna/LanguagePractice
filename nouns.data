@@ -20,8 +20,9 @@
 			"skirt": "la falda",
 			"dress": "el vestido",
 			"socks": "calcetines",
-			"belt": "cinturón",
-			"hat": "sombrero"
+			"belt": "el cinturón",
+			"hat": "el sombrero",
+			"tie": "una corbata"
 	    },
 	    "people": {
 			"woman" : "la mujer",
@@ -41,7 +42,7 @@
 			"fish": "el pez",
 			"fishes": "los peces",
 			"newpaper" : "un periódico",
-			"telephone" : "teléfonos"
+			"telephones" : "teléfonos"
 
 	    },
 		"roles": {
